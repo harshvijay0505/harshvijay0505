@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshvijay0505
 - 👀 I’m interested in Mobile Application Development (Flutter), Web Development, Blockchains, Java Type Systems, Embedded Systems, Big Data Analytics, Machine Learing.
-- 🌱 I’m currently learning Flutter App Development, Backend Ethereum Blockchains and Hadoop.
-- 💞️ I’m looking to collaborate on any concepts around Mobile Appication Development and Big Data.
+- 🌱 I’m currently learning Flutter App Development, Full-Stack Web Development using MERN and Hadoop.
+- 💞️ I’m looking to collaborate on any concepts around Mobile Appication Development and Full-Stack Development.
 - 📫 You can reach me at harshvijay0505@gmail.com 
 
 <!---
